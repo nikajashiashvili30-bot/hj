@@ -1,0 +1,30 @@
+{
+  "seccion": "Servidores",
+  "responsable": "Nika Jashiashvili",
+  "servidores": [
+    {
+      "id": 1,
+      "nombre": "Jorge Álvarez",
+      "servicio": "recepcionista",
+      "estado": "operativo"
+    },
+    {
+      "id": 2,
+      "nombre": "Luis Suarez",
+      "servicio": "botones",
+      "estado": "descanso"
+    },
+    {
+      "id": 3,
+      "nombre": "Ana Garcia",
+      "servicio": "servicio a domicilio",
+      "estado": "operativo"
+    },
+    {
+      "id": 4,
+      "nombre": "Gustavo González",
+      "servicio": "conserje",
+      "estado": "operativo"
+    }
+  ]
+}
