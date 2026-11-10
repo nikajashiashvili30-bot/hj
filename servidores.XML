@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Sección Servidores · TU NOMBRE Y APELLIDO -->
+
+-<inventario seccion="Servidores" xmlns:aut="https://lmsgi.example/autoria" xmlns="https://www.hotelcompañia.es/inventario">
+
+
+-<aut:firma>
+
+<aut:nombre>Nika Jashiashvili</aut:nombre>
+
+<aut:fecha>2026-11-10</aut:fecha>
+
+</aut:firma>
+
+
+-<servidor id="1">
+
+<nombre>Jorge Álvarez</nombre>
+
+<servicio>recepcionista</servicio>
+
+<estado>operativo</estado>
+
+</servidor>
+
+
+-<servidor id="2">
+
+<nombre>Luis Suarez</nombre>
+
+<servicio>botones</servicio>
+
+<estado>descanso</estado>
+
+</servidor>
+
+
+-<servidor id="3">
+
+<nombre>Ana Garcia</nombre>
+
+<servicio>servicio a domicilio</servicio>
+
+<estado>operativo</estado>
+
+</servidor>
+
+
+-<servidor id="4">
+
+<nombre>Gustavo González</nombre>
+
+<servicio>conserje</servicio>
+
+<estado>operativo</estado>
+
+</servidor>
+
+</inventario>
